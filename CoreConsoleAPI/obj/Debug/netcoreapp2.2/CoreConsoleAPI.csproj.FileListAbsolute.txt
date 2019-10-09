@@ -1,0 +1,11 @@
+C:\GitRepo\CoreAPITest\CoreConsoleAPI\bin\Debug\netcoreapp2.2\CoreConsoleAPI.deps.json
+C:\GitRepo\CoreAPITest\CoreConsoleAPI\bin\Debug\netcoreapp2.2\CoreConsoleAPI.runtimeconfig.json
+C:\GitRepo\CoreAPITest\CoreConsoleAPI\bin\Debug\netcoreapp2.2\CoreConsoleAPI.runtimeconfig.dev.json
+C:\GitRepo\CoreAPITest\CoreConsoleAPI\bin\Debug\netcoreapp2.2\CoreConsoleAPI.dll
+C:\GitRepo\CoreAPITest\CoreConsoleAPI\bin\Debug\netcoreapp2.2\CoreConsoleAPI.pdb
+C:\GitRepo\CoreAPITest\CoreConsoleAPI\obj\Debug\netcoreapp2.2\CoreConsoleAPI.csprojAssemblyReference.cache
+C:\GitRepo\CoreAPITest\CoreConsoleAPI\obj\Debug\netcoreapp2.2\CoreConsoleAPI.csproj.CoreCompileInputs.cache
+C:\GitRepo\CoreAPITest\CoreConsoleAPI\obj\Debug\netcoreapp2.2\CoreConsoleAPI.AssemblyInfoInputs.cache
+C:\GitRepo\CoreAPITest\CoreConsoleAPI\obj\Debug\netcoreapp2.2\CoreConsoleAPI.AssemblyInfo.cs
+C:\GitRepo\CoreAPITest\CoreConsoleAPI\obj\Debug\netcoreapp2.2\CoreConsoleAPI.dll
+C:\GitRepo\CoreAPITest\CoreConsoleAPI\obj\Debug\netcoreapp2.2\CoreConsoleAPI.pdb
